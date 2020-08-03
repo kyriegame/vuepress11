@@ -1,0 +1,21 @@
+{
+  "name": "vuepress11",
+  "version": "1.0.0",
+  "description": "第一次建博客",
+  "main": "index.js",
+   "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyriegame/vuepress11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyriegame/vuepress11/issues"
+  },
+  "homepage": "https://github.com/kyriegame/vuepress11#readme"
+}
